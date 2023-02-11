@@ -1,5 +1,6 @@
 # Data visualization for Netflix-s movies TV-shows__Python
 Data visualization project for Netflix's movies and TV shows would involve analyzing and presenting data related to the content offered by Netflix.
+
 This could include information on the most popular movies and TV shows, the genres that are most in demand, the countries with the highest viewership, and more. The data could be visualized using various techniques, such as bar charts, line graphs, scatter plots, heat maps, and others, to help better understand the data and draw insights. 
 
 ## Libraries
